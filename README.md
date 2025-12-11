@@ -1,4 +1,4 @@
-# Hackers Network — prototype
+# Hackers Network — prototype CIAO
 
 A starter Next.js prototype for an ethical-hackers social app and tools directory. Intended to be deployed on Vercel.
 
